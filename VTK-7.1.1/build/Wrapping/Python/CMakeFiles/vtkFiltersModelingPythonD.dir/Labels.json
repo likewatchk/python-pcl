@@ -1,0 +1,169 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAdaptiveSubdivisionFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBandedPolyDataContourFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkButterflySubdivisionFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDijkstraGraphGeodesicPathPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDijkstraImageGeodesicPathPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFillHolesFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGeodesicPathPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGraphGeodesicPathPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLinearExtrusionFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLinearSubdivisionFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLoopSubdivisionFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPolyDataPointSamplerPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkProjectedTexturePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkQuadRotationalExtrusionFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRibbonFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRotationalExtrusionFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRuledSurfaceFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSelectEnclosedPointsPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSelectPolyDataPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSpherePuzzleArrowsPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSpherePuzzlePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSubdivideTetraPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkOutlineFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSectorSourcePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkVolumeOfRevolutionFilterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFiltersModelingPythonInitImpl.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAdaptiveSubdivisionFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBandedPolyDataContourFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkButterflySubdivisionFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDijkstraGraphGeodesicPathPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDijkstraImageGeodesicPathPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFillHolesFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGeodesicPathPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGraphGeodesicPathPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLinearExtrusionFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLinearSubdivisionFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLoopSubdivisionFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPolyDataPointSamplerPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkProjectedTexturePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkQuadRotationalExtrusionFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRibbonFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRotationalExtrusionFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRuledSurfaceFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSelectEnclosedPointsPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSelectPolyDataPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSpherePuzzleArrowsPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSpherePuzzlePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSubdivideTetraPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkOutlineFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSectorSourcePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkVolumeOfRevolutionFilterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFiltersModelingPythonInit.cxx.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"VTKModular"
+		],
+		"name" : "vtkFiltersModelingPythonD"
+	}
+}

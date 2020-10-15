@@ -1,0 +1,9 @@
+# Target labels
+ VTKModular
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLSDynaReaderPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLSDynaSummaryParserPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOLSDynaPythonInitImpl.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLSDynaReaderPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLSDynaSummaryParserPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOLSDynaPythonInit.cxx.rule

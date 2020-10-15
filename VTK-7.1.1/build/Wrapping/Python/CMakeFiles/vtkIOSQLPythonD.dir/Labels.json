@@ -1,0 +1,91 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDatabaseToTableReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRowQueryPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRowQueryToTablePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLDatabasePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLDatabaseSchemaPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLDatabaseTableSourcePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLQueryPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTableToDatabaseWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLiteDatabasePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLiteQueryPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLiteToTableReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTableToSQLiteWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOSQLPythonInitImpl.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDatabaseToTableReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRowQueryPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRowQueryToTablePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLDatabasePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLDatabaseSchemaPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLDatabaseTableSourcePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLQueryPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTableToDatabaseWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLiteDatabasePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLiteQueryPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSQLiteToTableReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTableToSQLiteWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOSQLPythonInit.cxx.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"VTKModular"
+		],
+		"name" : "vtkIOSQLPythonD"
+	}
+}

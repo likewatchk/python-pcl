@@ -1,0 +1,160 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkAbstractParticleWriter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkArrayReader.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkArrayWriter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkASCIITextCodec.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkBase64InputStream.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkBase64OutputStream.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkBase64Utilities.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkDataCompressor.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkDelimitedTextWriter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkGlobFileNames.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkInputStream.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkJavaScriptDataWriter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkOutputStream.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkSortFileNames.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkTextCodec.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkTextCodecFactory.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkUTF16TextCodec.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkUTF8TextCodec.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkAbstractPolyDataReader.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkWriter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkZLibDataCompressor.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkArrayDataReader.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkArrayDataWriter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkAbstractParticleWriter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkArrayReader.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkArrayWriter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkASCIITextCodec.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkBase64InputStream.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkBase64OutputStream.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkBase64Utilities.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkDataCompressor.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkDelimitedTextWriter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkGlobFileNames.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkInputStream.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkJavaScriptDataWriter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkOutputStream.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkSortFileNames.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkTextCodec.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkTextCodecFactory.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkUTF16TextCodec.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkUTF8TextCodec.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkAbstractPolyDataReader.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkWriter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkZLibDataCompressor.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkArrayDataReader.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Core/vtkArrayDataWriter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Core/vtkIOCoreModule.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Core/vtkIOCoreHierarchy.stamp.txt"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Core/vtkIOCoreHierarchy.stamp.txt.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkIOCore"
+		],
+		"name" : "vtkIOCore"
+	}
+}

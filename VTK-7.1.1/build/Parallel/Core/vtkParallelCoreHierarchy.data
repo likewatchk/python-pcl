@@ -1,0 +1,15 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkCommunicator.h;vtkParallelCore;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkDummyCommunicator.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkDummyController.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkMultiProcessController.h;vtkParallelCore;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkMultiProcessStream.h;vtkParallelCore;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkPDirectory.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkProcess.h;vtkParallelCore;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkProcessGroup.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkPSystemTools.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSocketCommunicator.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSocketController.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSubCommunicator.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSubGroup.h;vtkParallelCore
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkFieldDataSerializer.h;vtkParallelCore
+

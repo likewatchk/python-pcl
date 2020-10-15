@@ -1,0 +1,19 @@
+# Target labels
+ VTKModular
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRCutPlanePython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRGaussianPulseSourcePython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRResampleFilterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRSliceFilterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRToMultiBlockFilterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageToAMRPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkParallelAMRUtilitiesPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFiltersAMRPythonInitImpl.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRCutPlanePython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRGaussianPulseSourcePython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRResampleFilterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRSliceFilterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAMRToMultiBlockFilterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageToAMRPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkParallelAMRUtilitiesPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFiltersAMRPythonInit.cxx.rule

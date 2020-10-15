@@ -1,0 +1,23 @@
+# Target labels
+ VTKModular
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkEnSightWriterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMultiBlockPLOT3DReaderPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPlot3DMetaReaderPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPChacoReaderPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPDataSetReaderPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPDataSetWriterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPImageWriterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPOpenFOAMReaderPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPSLACReaderPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOParallelPythonInitImpl.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkEnSightWriterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMultiBlockPLOT3DReaderPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPlot3DMetaReaderPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPChacoReaderPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPDataSetReaderPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPDataSetWriterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPImageWriterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPOpenFOAMReaderPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPSLACReaderPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOParallelPythonInit.cxx.rule

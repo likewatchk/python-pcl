@@ -1,0 +1,33 @@
+# Target labels
+ VTKModular
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBooleanTexturePython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkCheckerboardSplatterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFastSplatterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGaussianSplatterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageCursor3DPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageRectilinearWipePython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageToPointsPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPointLoadPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSampleFunctionPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkShepardMethodPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSliceCubesPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSurfaceReconstructionFilterPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTriangularTexturePython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkVoxelModellerPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImagingHybridPythonInitImpl.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBooleanTexturePython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkCheckerboardSplatterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFastSplatterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGaussianSplatterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageCursor3DPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageRectilinearWipePython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageToPointsPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPointLoadPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSampleFunctionPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkShepardMethodPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSliceCubesPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSurfaceReconstructionFilterPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTriangularTexturePython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkVoxelModellerPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImagingHybridPythonInit.cxx.rule

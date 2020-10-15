@@ -1,0 +1,229 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBMPReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBMPWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDEMReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDICOMImageReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGESignaReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageExportPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageImportPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageImportExecutivePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageReader2Python.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageReader2CollectionPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageReader2FactoryPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkJPEGReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkJPEGWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkJSONImageWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMedicalImagePropertiesPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMedicalImageReader2Python.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMetaImageReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMetaImageWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkNIFTIImageHeaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkNIFTIImageReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkNIFTIImageWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkNrrdReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPNGReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPNGWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPNMReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPNMWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPostScriptWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSLCReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTIFFReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTIFFWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkVolume16ReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkVolumeReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMRCReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOImagePythonInitImpl.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBMPReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBMPWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDEMReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDICOMImageReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGESignaReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageExportPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageImportPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageImportExecutivePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageReader2Python.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageReader2CollectionPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageReader2FactoryPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkImageWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkJPEGReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkJPEGWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkJSONImageWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMedicalImagePropertiesPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMedicalImageReader2Python.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMetaImageReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMetaImageWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkNIFTIImageHeaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkNIFTIImageReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkNIFTIImageWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkNrrdReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPNGReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPNGWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPNMReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPNMWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPostScriptWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSLCReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTIFFReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTIFFWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkVolume16ReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkVolumeReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMRCReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOImagePythonInit.cxx.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"VTKModular"
+		],
+		"name" : "vtkIOImagePythonD"
+	}
+}

@@ -1,0 +1,76 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericClip.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericContourFilter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericCutter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericDataSetTessellator.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericGeometryFilter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericGlyph3DFilter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericOutlineFilter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericProbeFilter.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericStreamTracer.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericClip.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericContourFilter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericCutter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericDataSetTessellator.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericGeometryFilter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericGlyph3DFilter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericOutlineFilter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericProbeFilter.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Generic/vtkGenericStreamTracer.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Generic/vtkFiltersGenericModule.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Generic/vtkFiltersGenericHierarchy.stamp.txt"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Generic/vtkFiltersGenericHierarchy.stamp.txt.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkFiltersGeneric"
+		],
+		"name" : "vtkFiltersGeneric"
+	}
+}

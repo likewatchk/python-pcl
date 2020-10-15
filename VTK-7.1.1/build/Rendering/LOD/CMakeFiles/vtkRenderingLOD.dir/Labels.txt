@@ -1,0 +1,10 @@
+# Target labels
+ vtkRenderingLOD
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/LOD/vtkLODActor.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/LOD/vtkQuadricLODActor.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/LOD/vtkLODActor.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/LOD/vtkQuadricLODActor.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/LOD/vtkRenderingLODModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/LOD/vtkRenderingLODHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/LOD/vtkRenderingLODHierarchy.stamp.txt.rule

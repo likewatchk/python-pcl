@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/jsoncpp/vtkjsoncpp/json/json.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/jsoncpp/vtkjsoncpp/jsoncpp.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkjsoncpp"
+		],
+		"name" : "vtkjsoncpp"
+	}
+}

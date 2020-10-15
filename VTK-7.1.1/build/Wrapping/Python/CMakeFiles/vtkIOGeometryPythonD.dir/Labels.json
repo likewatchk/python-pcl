@@ -1,0 +1,175 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAVSucdReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBYUReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBYUWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkChacoReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFacetWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFLUENTReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGAMBITReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGaussianCubeReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkHoudiniPolyDataWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIVWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMCubesReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMCubesWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMFIXReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMoleculeReaderBasePython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkOBJReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkOpenFOAMReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkParticleReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPDBReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkProStarReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPTSReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSTLReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSTLWriterPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTecplotReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkUGFacetReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkWindBladeReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkXYZMolReaderPython.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOGeometryPythonInitImpl.cxx"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkAVSucdReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBYUReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkBYUWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkChacoReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFacetWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFLUENTReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGAMBITReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkGaussianCubeReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkHoudiniPolyDataWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIVWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMCubesReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMCubesWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMFIXReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkMoleculeReaderBasePython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkOBJReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkOpenFOAMReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkParticleReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPDBReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkProStarReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPTSReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSTLReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkSTLWriterPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkTecplotReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkUGFacetReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkWindBladeReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkXYZMolReaderPython.cxx.rule"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkIOGeometryPythonInit.cxx.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"VTKModular"
+		],
+		"name" : "vtkIOGeometryPythonD"
+	}
+}

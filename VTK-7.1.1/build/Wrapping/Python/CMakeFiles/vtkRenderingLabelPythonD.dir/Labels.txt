@@ -1,0 +1,31 @@
+# Target labels
+ VTKModular
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabeledDataMapperPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabeledTreeMapDataMapperPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelHierarchyAlgorithmPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelHierarchyCompositeIteratorPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelHierarchyPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelHierarchyIteratorPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelPlacementMapperPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelPlacerPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelRenderStrategyPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelSizeCalculatorPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFreeTypeLabelRenderStrategyPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDynamic2DLabelMapperPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPointSetToLabelHierarchyPython.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRenderingLabelPythonInitImpl.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabeledDataMapperPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabeledTreeMapDataMapperPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelHierarchyAlgorithmPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelHierarchyCompositeIteratorPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelHierarchyPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelHierarchyIteratorPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelPlacementMapperPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelPlacerPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelRenderStrategyPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkLabelSizeCalculatorPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkFreeTypeLabelRenderStrategyPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkDynamic2DLabelMapperPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkPointSetToLabelHierarchyPython.cxx.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Wrapping/Python/vtkRenderingLabelPythonInit.cxx.rule

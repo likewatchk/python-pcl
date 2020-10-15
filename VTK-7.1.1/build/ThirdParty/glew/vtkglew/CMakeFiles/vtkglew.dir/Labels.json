@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/glew/vtkglew/src/glew.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkglew"
+		],
+		"name" : "vtkglew"
+	}
+}

@@ -1,0 +1,8 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageStencil.h;vtkImagingStencil
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageStencilToImage.h;vtkImagingStencil
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageToImageStencil.h;vtkImagingStencil
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImplicitFunctionToImageStencil.h;vtkImagingStencil
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkLassoStencilSource.h;vtkImagingStencil
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkPolyDataToImageStencil.h;vtkImagingStencil
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkROIStencilSource.h;vtkImagingStencil
+

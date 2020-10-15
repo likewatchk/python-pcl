@@ -1,0 +1,9 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/SMP/vtkSMPContourGrid.h;vtkFiltersSMP
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/SMP/vtkSMPContourGridManyPieces.h;vtkFiltersSMP
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/SMP/vtkSMPMergePoints.h;vtkFiltersSMP
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/SMP/vtkSMPMergePolyDataHelper.h;vtkFiltersSMP;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/SMP/vtkThreadedSynchronizedTemplates3D.h;vtkFiltersSMP
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/SMP/vtkThreadedSynchronizedTemplatesCutter3D.h;vtkFiltersSMP
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/SMP/vtkSMPTransform.h;vtkFiltersSMP
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/SMP/vtkSMPWarpVector.h;vtkFiltersSMP
+

@@ -1,0 +1,10 @@
+set(vtkPython_LOADED 1)
+set(vtkPython_DEPENDS "vtkCommonCore")
+set(vtkPython_LIBRARIES "/usr/lib/x86_64-linux-gnu/libpython3.6m.so")
+set(vtkPython_INCLUDE_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Utilities/Python;/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/Python;/usr/include/python3.6m")
+set(vtkPython_LIBRARY_DIRS "")
+set(vtkPython_RUNTIME_LIBRARY_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/lib")
+set(vtkPython_WRAP_HIERARCHY_FILE "")
+set(vtkPython_KIT "")
+set(vtkPython_EXCLUDE_FROM_WRAPPING 1)
+

@@ -1,0 +1,12 @@
+# Target labels
+ vtkIOPLY
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/PLY/vtkPLY.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/PLY/vtkPLYReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/PLY/vtkPLYWriter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/PLY/vtkPLY.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/PLY/vtkPLYReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/PLY/vtkPLYWriter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/PLY/vtkIOPLYModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/PLY/vtkIOPLYHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/PLY/vtkIOPLYHierarchy.stamp.txt.rule

@@ -1,0 +1,10 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkCPExodusIIElementBlock.h;vtkIOExodus
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkCPExodusIIInSituReader.h;vtkIOExodus
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkCPExodusIINodalCoordinatesTemplate.h;vtkIOExodus;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkCPExodusIIResultsArrayTemplate.h;vtkIOExodus;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkExodusIICache.h;vtkIOExodus
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkExodusIIReader.h;vtkIOExodus
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkExodusIIReaderParser.h;vtkIOExodus;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkExodusIIWriter.h;vtkIOExodus
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Exodus/vtkModelMetadata.h;vtkIOExodus
+

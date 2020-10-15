@@ -1,0 +1,25 @@
+# Target labels
+ vtkIOMINC
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMINCImageAttributes.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMINCImageReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMINCImageWriter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNIObjectReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNIObjectWriter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNITagPointReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNITagPointWriter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNITransformReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNITransformWriter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMINC.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMINCImageAttributes.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMINCImageReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMINCImageWriter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNIObjectReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNIObjectWriter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNITagPointReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNITagPointWriter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNITransformReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/MINC/vtkMNITransformWriter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/MINC/vtkIOMINCModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/MINC/vtkIOMINCHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/MINC/vtkIOMINCHierarchy.stamp.txt.rule

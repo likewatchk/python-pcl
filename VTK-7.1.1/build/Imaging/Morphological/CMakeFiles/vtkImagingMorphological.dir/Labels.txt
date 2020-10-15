@@ -1,0 +1,28 @@
+# Target labels
+ vtkImagingMorphological
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageConnector.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageConnectivityFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageContinuousDilate3D.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageContinuousErode3D.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageDilateErode3D.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageIslandRemoval2D.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageNonMaximumSuppression.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageOpenClose3D.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageSeedConnectivity.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageSkeleton2D.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageThresholdConnectivity.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageConnector.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageConnectivityFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageContinuousDilate3D.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageContinuousErode3D.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageDilateErode3D.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageIslandRemoval2D.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageNonMaximumSuppression.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageOpenClose3D.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageSeedConnectivity.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageSkeleton2D.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Morphological/vtkImageThresholdConnectivity.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Morphological/vtkImagingMorphologicalModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Morphological/vtkImagingMorphologicalHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Morphological/vtkImagingMorphologicalHierarchy.stamp.txt.rule

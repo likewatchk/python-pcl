@@ -1,0 +1,91 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/adler32.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/compress.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/crc32.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/deflate.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/gzclose.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/gzlib.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/gzread.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/gzwrite.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/inflate.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/infback.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/inftrees.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/inffast.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/trees.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/uncompr.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/zutil.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/ThirdParty/zlib/vtkzlib/zconf.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/zlib.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/crc32.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/deflate.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/gzguts.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/inffast.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/inffixed.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/inflate.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/inftrees.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/trees.h"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib/vtkzlib/zutil.h"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkzlib"
+		],
+		"name" : "vtkzlib"
+	}
+}

@@ -1,0 +1,39 @@
+# Target labels
+ vtkDomainsChemistry
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkBlueObeliskData.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkBlueObeliskDataInternal.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkBlueObeliskDataParser.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkCMLMoleculeReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkGaussianCubeReader2.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeAlgorithm.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeMapper.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeToAtomBallFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeToBondStickFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeToPolyDataFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkPeriodicTable.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkProgrammableElectronicData.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkProteinRibbonFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkSimpleBondPerceiver.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkVASPAnimationReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkVASPTessellationReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkXYZMolReader2.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkBlueObeliskData.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkBlueObeliskDataParser.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkCMLMoleculeReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkGaussianCubeReader2.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeAlgorithm.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeMapper.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeToAtomBallFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeToBondStickFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkMoleculeToPolyDataFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkPeriodicTable.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkProgrammableElectronicData.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkProteinRibbonFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkSimpleBondPerceiver.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkVASPAnimationReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkVASPTessellationReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Domains/Chemistry/vtkXYZMolReader2.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Domains/Chemistry/vtkDomainsChemistryModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Domains/Chemistry/vtkDomainsChemistryHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Domains/Chemistry/vtkDomainsChemistryHierarchy.stamp.txt.rule

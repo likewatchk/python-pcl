@@ -1,0 +1,9 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/FreeType/vtkFreeTypeStringToImage.h;vtkRenderingFreeType
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/FreeType/vtkFreeTypeTools.h;vtkRenderingFreeType;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/FreeType/vtkMathTextFreeTypeTextRenderer.h;vtkRenderingFreeType
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/FreeType/vtkMathTextUtilities.h;vtkRenderingFreeType
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/FreeType/vtkTextRendererStringToImage.h;vtkRenderingFreeType
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/FreeType/vtkScaledTextActor.h;vtkRenderingFreeType
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/FreeType/vtkVectorText.h;vtkRenderingFreeType
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/FreeType/vtkRenderingFreeTypeObjectFactory.h;vtkRenderingFreeType;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+

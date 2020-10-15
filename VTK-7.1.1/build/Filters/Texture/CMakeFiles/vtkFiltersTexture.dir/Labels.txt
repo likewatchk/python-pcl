@@ -1,0 +1,20 @@
+# Target labels
+ vtkFiltersTexture
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToCylinder.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToPlane.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToSphere.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkImplicitTextureCoords.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkThresholdTextureCoords.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTransformTextureCoords.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTriangularTCoords.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToCylinder.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToPlane.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToSphere.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkImplicitTextureCoords.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkThresholdTextureCoords.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTransformTextureCoords.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTriangularTCoords.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Texture/vtkFiltersTextureModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Texture/vtkFiltersTextureHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Texture/vtkFiltersTextureHierarchy.stamp.txt.rule

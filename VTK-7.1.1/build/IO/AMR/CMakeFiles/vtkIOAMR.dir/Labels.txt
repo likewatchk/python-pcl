@@ -1,0 +1,24 @@
+# Target labels
+ vtkIOAMR
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRDataSetCache.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRBaseParticlesReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRBaseReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoParticlesReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoReaderInternal.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashParticlesReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashReader.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashReaderInternal.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRDataSetCache.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRBaseParticlesReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRBaseReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoParticlesReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoReaderInternal.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashParticlesReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashReader.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashReaderInternal.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/AMR/vtkIOAMRModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/AMR/vtkIOAMRHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/AMR/vtkIOAMRHierarchy.stamp.txt.rule

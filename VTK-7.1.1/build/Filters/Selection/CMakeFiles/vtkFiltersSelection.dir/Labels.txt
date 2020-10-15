@@ -1,0 +1,12 @@
+# Target labels
+ vtkFiltersSelection
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Selection/vtkKdTreeSelector.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Selection/vtkLinearSelector.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Selection/vtkCellDistanceSelector.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Selection/vtkKdTreeSelector.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Selection/vtkLinearSelector.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Selection/vtkCellDistanceSelector.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Selection/vtkFiltersSelectionModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Selection/vtkFiltersSelectionHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Selection/vtkFiltersSelectionHierarchy.stamp.txt.rule

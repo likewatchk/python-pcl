@@ -1,0 +1,13 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkAmoebaMinimizer.h;vtkCommonMath
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkFunctionSet.h;vtkCommonMath;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkInitialValueProblemSolver.h;vtkCommonMath;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkMatrix3x3.h;vtkCommonMath
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkMatrix4x4.h;vtkCommonMath
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkPolynomialSolversUnivariate.h;vtkCommonMath
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkQuaternionInterpolator.h;vtkCommonMath
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkRungeKutta2.h;vtkCommonMath
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkRungeKutta4.h;vtkCommonMath
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkRungeKutta45.h;vtkCommonMath
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkQuaternion.h;vtkCommonMath;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Math/vtkTuple.h;vtkCommonMath;WRAP_EXCLUDE
+

@@ -1,0 +1,10 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRDataSetCache.h;vtkIOAMR
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRBaseParticlesReader.h;vtkIOAMR;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRBaseReader.h;vtkIOAMR;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoParticlesReader.h;vtkIOAMR
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoReader.h;vtkIOAMR
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMREnzoReaderInternal.h;vtkIOAMR;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashParticlesReader.h;vtkIOAMR
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashReader.h;vtkIOAMR
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/AMR/vtkAMRFlashReaderInternal.h;vtkIOAMR;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+

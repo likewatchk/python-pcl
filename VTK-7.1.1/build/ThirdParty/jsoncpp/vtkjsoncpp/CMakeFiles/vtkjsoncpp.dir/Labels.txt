@@ -1,0 +1,5 @@
+# Target labels
+ vtkjsoncpp
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/jsoncpp/vtkjsoncpp/json/json.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/jsoncpp/vtkjsoncpp/jsoncpp.cpp

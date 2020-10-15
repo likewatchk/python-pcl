@@ -1,0 +1,20 @@
+# Target labels
+ vtkFiltersAMR
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRCutPlane.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRGaussianPulseSource.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRResampleFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRSliceFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRToMultiBlockFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkImageToAMR.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkParallelAMRUtilities.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRCutPlane.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRGaussianPulseSource.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRResampleFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRSliceFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkAMRToMultiBlockFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkImageToAMR.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/AMR/vtkParallelAMRUtilities.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/AMR/vtkFiltersAMRModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/AMR/vtkFiltersAMRHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/AMR/vtkFiltersAMRHierarchy.stamp.txt.rule

@@ -1,0 +1,5 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/LSDyna/vtkLSDynaPart.h;vtkIOLSDyna;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/LSDyna/vtkLSDynaPartCollection.h;vtkIOLSDyna;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/LSDyna/vtkLSDynaReader.h;vtkIOLSDyna
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/LSDyna/vtkLSDynaSummaryParser.h;vtkIOLSDyna
+

@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseJava.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkWrappingTools"
+		],
+		"name" : "vtkParseJava"
+	}
+}

@@ -1,0 +1,36 @@
+# Target labels
+ vtkParallelCore
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkCommunicator.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkDummyCommunicator.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkDummyController.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkMultiProcessController.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkMultiProcessStream.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkPDirectory.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkProcess.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkProcessGroup.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkPSystemTools.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSocketCommunicator.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSocketController.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSubCommunicator.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSubGroup.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkFieldDataSerializer.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Parallel/Core/vtkSocketCommunicatorHash.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkCommunicator.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkDummyCommunicator.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkDummyController.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkMultiProcessController.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkMultiProcessStream.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkPDirectory.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkProcess.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkProcessGroup.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkPSystemTools.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSocketCommunicator.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSocketController.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSubCommunicator.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkSubGroup.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Parallel/Core/vtkFieldDataSerializer.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Parallel/Core/vtkParallelCoreModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Parallel/Core/vtkParallelCoreHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Parallel/Core/vtkSocketCommunicatorHash.h.rule
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Parallel/Core/vtkParallelCoreHierarchy.stamp.txt.rule

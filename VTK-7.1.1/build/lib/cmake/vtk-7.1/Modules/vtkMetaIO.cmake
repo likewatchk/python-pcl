@@ -1,0 +1,10 @@
+set(vtkMetaIO_LOADED 1)
+set(vtkMetaIO_DEPENDS "vtkzlib")
+set(vtkMetaIO_LIBRARIES "vtkmetaio")
+set(vtkMetaIO_INCLUDE_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Utilities/MetaIO/vtkmetaio;/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Utilities/MetaIO;/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO")
+set(vtkMetaIO_LIBRARY_DIRS "")
+set(vtkMetaIO_RUNTIME_LIBRARY_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/lib")
+set(vtkMetaIO_WRAP_HIERARCHY_FILE "")
+set(vtkMetaIO_KIT "")
+set(vtkMetaIO_EXCLUDE_FROM_WRAPPING 1)
+

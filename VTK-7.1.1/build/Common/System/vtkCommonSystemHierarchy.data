@@ -1,0 +1,8 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/System/vtkClientSocket.h;vtkCommonSystem
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/System/vtkDirectory.h;vtkCommonSystem
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/System/vtkServerSocket.h;vtkCommonSystem
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/System/vtkSocket.h;vtkCommonSystem;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/System/vtkSocketCollection.h;vtkCommonSystem
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/System/vtkThreadMessager.h;vtkCommonSystem
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/System/vtkTimerLog.h;vtkCommonSystem
+

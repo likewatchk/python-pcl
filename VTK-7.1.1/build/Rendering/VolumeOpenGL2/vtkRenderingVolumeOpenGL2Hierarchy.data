@@ -1,0 +1,6 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/VolumeOpenGL2/vtkOpenGLGPUVolumeRayCastMapper.h;vtkRenderingVolumeOpenGL2
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/VolumeOpenGL2/vtkOpenGLProjectedTetrahedraMapper.h;vtkRenderingVolumeOpenGL2
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/VolumeOpenGL2/vtkOpenGLRayCastImageDisplayHelper.h;vtkRenderingVolumeOpenGL2
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/VolumeOpenGL2/vtkSmartVolumeMapper.h;vtkRenderingVolumeOpenGL2
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/VolumeOpenGL2/vtkRenderingVolumeOpenGL2ObjectFactory.h;vtkRenderingVolumeOpenGL2;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+

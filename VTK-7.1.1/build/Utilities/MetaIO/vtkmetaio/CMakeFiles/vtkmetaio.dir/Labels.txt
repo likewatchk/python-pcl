@@ -1,0 +1,36 @@
+# Target labels
+ vtkMetaIO
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaTypes.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaUtils.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaArrow.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaBlob.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaCommand.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaCommand.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaContour.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaContour.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaDTITube.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaEllipse.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaGroup.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaGaussian.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaImage.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaImageUtils.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaLandmark.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaLine.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaMesh.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaMesh.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaObject.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaOutput.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaOutput.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaScene.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaSurface.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaTube.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaVesselTube.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaTransform.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaTubeGraph.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaForm.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaForm.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaArray.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaArray.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaFEMObject.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/MetaIO/vtkmetaio/metaFEMObject.cxx

@@ -1,0 +1,7 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/ContextOpenGL2/vtkOpenGLContextActor.h;vtkRenderingContextOpenGL2
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/ContextOpenGL2/vtkOpenGLContextBufferId.h;vtkRenderingContextOpenGL2;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/ContextOpenGL2/vtkOpenGLContextDevice2D.h;vtkRenderingContextOpenGL2;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/ContextOpenGL2/vtkOpenGLContextDevice3D.h;vtkRenderingContextOpenGL2;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/ContextOpenGL2/vtkOpenGLPropItem.h;vtkRenderingContextOpenGL2;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/ContextOpenGL2/vtkRenderingContextOpenGL2ObjectFactory.h;vtkRenderingContextOpenGL2;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+

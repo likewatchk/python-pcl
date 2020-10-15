@@ -1,0 +1,14 @@
+# Target labels
+ vtkRenderingImage
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/Image/vtkDepthImageToPointCloud.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/Image/vtkImageResliceMapper.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/Image/vtkImageSliceCollection.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/Image/vtkImageStack.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/Image/vtkDepthImageToPointCloud.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/Image/vtkImageResliceMapper.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/Image/vtkImageSliceCollection.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/Image/vtkImageStack.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/Image/vtkRenderingImageModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/Image/vtkRenderingImageHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/Image/vtkRenderingImageHierarchy.stamp.txt.rule

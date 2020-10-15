@@ -1,0 +1,44 @@
+# Target labels
+ vtkInteractionStyle
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleDrawPolygon.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleFlight.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleImage.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleJoystickActor.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleJoystickCamera.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleMultiTouchCamera.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleRubberBand2D.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleRubberBand3D.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleRubberBandPick.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleRubberBandZoom.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleTerrain.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleTrackballActor.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleTrackballCamera.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleTrackball.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleUnicam.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleUser.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleSwitch.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkParallelCoordinatesInteractorStyle.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Interaction/Style/vtkInteractionStyleObjectFactory.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleDrawPolygon.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleFlight.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleImage.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleJoystickActor.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleJoystickCamera.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleMultiTouchCamera.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleRubberBand2D.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleRubberBand3D.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleRubberBandPick.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleRubberBandZoom.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleTerrain.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleTrackballActor.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleTrackballCamera.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleTrackball.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleUnicam.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleUser.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkInteractorStyleSwitch.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style/vtkParallelCoordinatesInteractorStyle.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Interaction/Style/vtkInteractionStyleObjectFactory.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Interaction/Style/vtkInteractionStyleModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Interaction/Style/vtkInteractionStyleHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Interaction/Style/vtkInteractionStyleHierarchy.stamp.txt.rule

@@ -1,0 +1,12 @@
+# Target labels
+ vtkIOXMLParser
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/XMLParser/vtkXMLDataParser.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/XMLParser/vtkXMLParser.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/XMLParser/vtkXMLUtilities.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/XMLParser/vtkXMLDataParser.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/XMLParser/vtkXMLParser.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/XMLParser/vtkXMLUtilities.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/XMLParser/vtkIOXMLParserModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/XMLParser/vtkIOXMLParserHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/XMLParser/vtkIOXMLParserHierarchy.stamp.txt.rule

@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/EncodeString/vtkEncodeString.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkUtilitiesEncodeString"
+		],
+		"name" : "vtkEncodeString"
+	}
+}

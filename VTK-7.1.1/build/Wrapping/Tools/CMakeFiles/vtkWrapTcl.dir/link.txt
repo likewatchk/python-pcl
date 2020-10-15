@@ -1,0 +1,1 @@
+/usr/bin/cc   -g   -Wl,--no-undefined -lc  -Wl,--no-undefined -lc   -rdynamic CMakeFiles/vtkWrapTcl.dir/vtkWrapTcl.c.o  -o ../../bin/vtkWrapTcl-7.1 ../../lib/libvtkWrappingTools-7.1.a 

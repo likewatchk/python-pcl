@@ -1,0 +1,6 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Misc/vtkContourValues.h;vtkCommonMisc
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Misc/vtkErrorCode.h;vtkCommonMisc;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Misc/vtkFunctionParser.h;vtkCommonMisc
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Misc/vtkHeap.h;vtkCommonMisc
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Misc/vtkPolygonBuilder.h;vtkCommonMisc;WRAP_EXCLUDE
+

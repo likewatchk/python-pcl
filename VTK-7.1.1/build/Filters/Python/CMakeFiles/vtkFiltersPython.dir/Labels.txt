@@ -1,0 +1,8 @@
+# Target labels
+ vtkFiltersPython
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Python/vtkPythonAlgorithm.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Python/vtkPythonAlgorithm.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Python/vtkFiltersPythonModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Python/vtkFiltersPythonHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Python/vtkFiltersPythonHierarchy.stamp.txt.rule

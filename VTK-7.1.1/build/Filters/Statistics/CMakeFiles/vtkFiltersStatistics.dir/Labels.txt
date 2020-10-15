@@ -1,0 +1,40 @@
+# Target labels
+ vtkFiltersStatistics
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkAutoCorrelativeStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkBivariateLinearTableThreshold.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkComputeQuartiles.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkContingencyStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkCorrelativeStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkDescriptiveStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkHighestDensityRegionsStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkExtractFunctionalBagPlot.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkKMeansDistanceFunctorCalculator.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkKMeansDistanceFunctor.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkKMeansStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkMultiCorrelativeStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkOrderStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkPCAStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkStatisticsAlgorithm.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkStrahlerMetric.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkStreamingStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkAutoCorrelativeStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkBivariateLinearTableThreshold.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkComputeQuartiles.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkContingencyStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkCorrelativeStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkDescriptiveStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkHighestDensityRegionsStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkExtractFunctionalBagPlot.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkKMeansDistanceFunctorCalculator.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkKMeansDistanceFunctor.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkKMeansStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkMultiCorrelativeStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkOrderStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkPCAStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkStatisticsAlgorithm.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkStrahlerMetric.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Statistics/vtkStreamingStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Statistics/vtkFiltersStatisticsModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Statistics/vtkFiltersStatisticsHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Statistics/vtkFiltersStatisticsHierarchy.stamp.txt.rule

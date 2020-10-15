@@ -1,0 +1,8 @@
+# Target labels
+ vtkIOVideo
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Video/vtkVideoSource.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Video/vtkVideoSource.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Video/vtkIOVideoModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Video/vtkIOVideoHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Video/vtkIOVideoHierarchy.stamp.txt.rule

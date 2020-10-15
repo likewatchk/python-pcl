@@ -1,0 +1,10 @@
+# Target labels
+ vtkCommonColor
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Color/vtkColorSeries.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Color/vtkNamedColors.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Color/vtkColorSeries.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Common/Color/vtkNamedColors.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Common/Color/vtkCommonColorModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Common/Color/vtkCommonColorHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Common/Color/vtkCommonColorHierarchy.stamp.txt.rule

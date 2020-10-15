@@ -1,0 +1,17 @@
+# Target labels
+ vtkIOImport
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtk3DSImporter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkImporter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkVRMLImporter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkOBJImporter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkOBJImporterInternals.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtk3DS.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtk3DSImporter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkImporter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkVRMLImporter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkOBJImporter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkOBJImporterInternals.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Import/vtkIOImportModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Import/vtkIOImportHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Import/vtkIOImportHierarchy.stamp.txt.rule

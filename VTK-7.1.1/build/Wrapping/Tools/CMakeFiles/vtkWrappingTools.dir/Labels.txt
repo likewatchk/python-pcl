@@ -1,0 +1,16 @@
+# Target labels
+ vtkWrappingTools
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParse.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseType.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParse.tab.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseData.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseMain.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseExtras.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseMangle.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseMerge.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseString.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParseHierarchy.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkParsePreprocess.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrap.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapText.c

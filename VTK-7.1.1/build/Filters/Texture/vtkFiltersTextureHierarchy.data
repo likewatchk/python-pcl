@@ -1,0 +1,8 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToCylinder.h;vtkFiltersTexture
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToPlane.h;vtkFiltersTexture
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTextureMapToSphere.h;vtkFiltersTexture
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkImplicitTextureCoords.h;vtkFiltersTexture
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkThresholdTextureCoords.h;vtkFiltersTexture
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTransformTextureCoords.h;vtkFiltersTexture
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Texture/vtkTriangularTCoords.h;vtkFiltersTexture
+

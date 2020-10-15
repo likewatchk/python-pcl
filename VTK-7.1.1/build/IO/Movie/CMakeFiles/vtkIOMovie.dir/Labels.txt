@@ -1,0 +1,11 @@
+# Target labels
+ vtkIOMovie
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Movie/vtkGenericMovieWriter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Movie/vtkOggTheoraWriter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Movie/vtkIOMovieConfigure.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Movie/vtkGenericMovieWriter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Movie/vtkOggTheoraWriter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Movie/vtkIOMovieModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Movie/vtkIOMovieHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/IO/Movie/vtkIOMovieHierarchy.stamp.txt.rule

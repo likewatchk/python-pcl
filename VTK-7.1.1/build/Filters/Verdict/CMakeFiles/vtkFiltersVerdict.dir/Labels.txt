@@ -1,0 +1,12 @@
+# Target labels
+ vtkFiltersVerdict
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Verdict/vtkCellQuality.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Verdict/vtkMatrixMathFilter.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Verdict/vtkMeshQuality.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Verdict/vtkCellQuality.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Verdict/vtkMatrixMathFilter.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Filters/Verdict/vtkMeshQuality.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Verdict/vtkFiltersVerdictModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Verdict/vtkFiltersVerdictHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Filters/Verdict/vtkFiltersVerdictHierarchy.stamp.txt.rule

@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/gl2ps/vtkgl2ps/gl2ps.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkgl2ps"
+		],
+		"name" : "vtkgl2ps"
+	}
+}

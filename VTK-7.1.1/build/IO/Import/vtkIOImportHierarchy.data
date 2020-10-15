@@ -1,0 +1,6 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtk3DSImporter.h;vtkIOImport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkImporter.h;vtkIOImport;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkVRMLImporter.h;vtkIOImport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkOBJImporter.h;vtkIOImport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Import/vtkOBJImporterInternals.h;vtkIOImport;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+

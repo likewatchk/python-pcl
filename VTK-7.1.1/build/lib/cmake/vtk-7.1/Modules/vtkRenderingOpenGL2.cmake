@@ -1,0 +1,10 @@
+set(vtkRenderingOpenGL2_LOADED 1)
+set(vtkRenderingOpenGL2_DEPENDS "vtkCommonCore;vtkCommonDataModel;vtkCommonExecutionModel;vtkCommonMath;vtkCommonSystem;vtkCommonTransforms;vtkIOImage;vtkImagingCore;vtkRenderingCore;vtkRenderingCore;vtkUtilitiesEncodeString;vtkglew;vtksys")
+set(vtkRenderingOpenGL2_LIBRARIES "vtkRenderingOpenGL2")
+set(vtkRenderingOpenGL2_INCLUDE_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Rendering/OpenGL2;/home/softkoo/pcl/python-pcl/VTK-7.1.1/Rendering/OpenGL2")
+set(vtkRenderingOpenGL2_LIBRARY_DIRS "")
+set(vtkRenderingOpenGL2_RUNTIME_LIBRARY_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/lib")
+set(vtkRenderingOpenGL2_WRAP_HIERARCHY_FILE "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/lib/cmake/vtk-7.1/Modules/vtkRenderingOpenGL2Hierarchy.txt")
+set(vtkRenderingOpenGL2_KIT "vtkOpenGL")
+set(vtkRenderingOpenGL2_IMPLEMENTS "vtkRenderingCore")
+

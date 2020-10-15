@@ -1,0 +1,10 @@
+set(vtkPython_LOADED 1)
+set(vtkPython_DEPENDS "vtkCommonCore")
+set(vtkPython_LIBRARIES "/usr/lib/x86_64-linux-gnu/libpython3.6m.so")
+set(vtkPython_INCLUDE_DIRS "${VTK_INSTALL_PREFIX}/include/vtk-7.1;/usr/include/python3.6m")
+set(vtkPython_LIBRARY_DIRS "")
+set(vtkPython_RUNTIME_LIBRARY_DIRS "${VTK_INSTALL_PREFIX}/lib")
+set(vtkPython_WRAP_HIERARCHY_FILE "${CMAKE_CURRENT_LIST_DIR}/vtkPythonHierarchy.txt")
+set(vtkPython_KIT "")
+set(vtkPython_EXCLUDE_FROM_WRAPPING 1)
+

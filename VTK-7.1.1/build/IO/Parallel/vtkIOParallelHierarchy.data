@@ -1,0 +1,11 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkEnSightWriter.h;vtkIOParallel
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkMultiBlockPLOT3DReader.h;vtkIOParallel
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkMultiBlockPLOT3DReaderInternals.h;vtkIOParallel;WRAP_EXCLUDE;WRAP_EXCLUDE_PYTHON
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkPlot3DMetaReader.h;vtkIOParallel
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkPChacoReader.h;vtkIOParallel
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkPDataSetReader.h;vtkIOParallel
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkPDataSetWriter.h;vtkIOParallel
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkPImageWriter.h;vtkIOParallel
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkPOpenFOAMReader.h;vtkIOParallel
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Parallel/vtkPSLACReader.h;vtkIOParallel
+

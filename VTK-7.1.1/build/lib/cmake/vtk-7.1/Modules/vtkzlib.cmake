@@ -1,0 +1,10 @@
+set(vtkzlib_LOADED 1)
+set(vtkzlib_DEPENDS "")
+set(vtkzlib_LIBRARIES "vtkzlib")
+set(vtkzlib_INCLUDE_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/ThirdParty/zlib;/home/softkoo/pcl/python-pcl/VTK-7.1.1/ThirdParty/zlib")
+set(vtkzlib_LIBRARY_DIRS "")
+set(vtkzlib_RUNTIME_LIBRARY_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/lib")
+set(vtkzlib_WRAP_HIERARCHY_FILE "")
+set(vtkzlib_KIT "")
+set(vtkzlib_EXCLUDE_FROM_WRAPPING 1)
+

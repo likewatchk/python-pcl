@@ -1,0 +1,8 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/NetCDF/vtkMPASReader.h;vtkIONetCDF
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/NetCDF/vtkNetCDFCAMReader.h;vtkIONetCDF
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/NetCDF/vtkNetCDFCFReader.h;vtkIONetCDF
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/NetCDF/vtkNetCDFPOPReader.h;vtkIONetCDF
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/NetCDF/vtkNetCDFReader.h;vtkIONetCDF
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/NetCDF/vtkSLACParticleReader.h;vtkIONetCDF
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/NetCDF/vtkSLACReader.h;vtkIONetCDF
+

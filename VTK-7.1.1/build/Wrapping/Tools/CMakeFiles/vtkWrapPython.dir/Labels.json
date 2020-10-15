@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPython.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonClass.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonConstant.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonEnum.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonMethod.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonMethodDef.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonNamespace.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonOverload.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonTemplate.c"
+		},
+		{
+			"file" : "/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonType.c"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"vtkWrappingTools"
+		],
+		"name" : "vtkWrapPython"
+	}
+}

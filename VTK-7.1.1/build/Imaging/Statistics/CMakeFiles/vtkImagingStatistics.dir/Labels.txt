@@ -1,0 +1,12 @@
+# Target labels
+ vtkImagingStatistics
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Statistics/vtkImageAccumulate.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Statistics/vtkImageHistogram.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Statistics/vtkImageHistogramStatistics.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Statistics/vtkImageAccumulate.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Statistics/vtkImageHistogram.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Statistics/vtkImageHistogramStatistics.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Statistics/vtkImagingStatisticsModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Statistics/vtkImagingStatisticsHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Statistics/vtkImagingStatisticsHierarchy.stamp.txt.rule

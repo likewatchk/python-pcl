@@ -1,0 +1,17 @@
+vtkDomainsChemistryPython
+vtkBlueObeliskData
+vtkBlueObeliskDataParser
+vtkCMLMoleculeReader
+vtkGaussianCubeReader2
+vtkMoleculeAlgorithm
+vtkMoleculeMapper
+vtkMoleculeToAtomBallFilter
+vtkMoleculeToBondStickFilter
+vtkMoleculeToPolyDataFilter
+vtkPeriodicTable
+vtkProgrammableElectronicData
+vtkProteinRibbonFilter
+vtkSimpleBondPerceiver
+vtkVASPAnimationReader
+vtkVASPTessellationReader
+vtkXYZMolReader2

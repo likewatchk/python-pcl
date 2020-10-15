@@ -1,0 +1,10 @@
+set(vtkInteractionStyle_LOADED 1)
+set(vtkInteractionStyle_DEPENDS "vtkCommonCore;vtkCommonDataModel;vtkCommonMath;vtkCommonTransforms;vtkFiltersExtraction;vtkFiltersSources;vtkRenderingCore;vtkRenderingCore")
+set(vtkInteractionStyle_LIBRARIES "vtkInteractionStyle")
+set(vtkInteractionStyle_INCLUDE_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Interaction/Style;/home/softkoo/pcl/python-pcl/VTK-7.1.1/Interaction/Style")
+set(vtkInteractionStyle_LIBRARY_DIRS "")
+set(vtkInteractionStyle_RUNTIME_LIBRARY_DIRS "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/lib")
+set(vtkInteractionStyle_WRAP_HIERARCHY_FILE "/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/lib/cmake/vtk-7.1/Modules/vtkInteractionStyleHierarchy.txt")
+set(vtkInteractionStyle_KIT "vtkInteraction")
+set(vtkInteractionStyle_IMPLEMENTS "vtkRenderingCore")
+

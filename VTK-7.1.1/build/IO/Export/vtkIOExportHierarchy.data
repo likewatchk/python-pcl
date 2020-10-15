@@ -1,0 +1,16 @@
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkExporter.h;vtkIOExport;ABSTRACT
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkGL2PSExporter.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkIVExporter.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkOBJExporter.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkOOGLExporter.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkPOVExporter.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkRIBExporter.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkRIBLight.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkRIBProperty.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkVRMLExporter.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkX3D.h;vtkIOExport;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkX3DExporter.h;vtkIOExport
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkX3DExporterFIWriter.h;vtkIOExport;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkX3DExporterWriter.h;vtkIOExport;WRAP_EXCLUDE
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/IO/Export/vtkX3DExporterXMLWriter.h;vtkIOExport;WRAP_EXCLUDE
+

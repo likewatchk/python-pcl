@@ -1,0 +1,20 @@
+# Target labels
+ vtkImagingStencil
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageStencil.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageStencilToImage.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageToImageStencil.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImplicitFunctionToImageStencil.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkLassoStencilSource.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkPolyDataToImageStencil.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkROIStencilSource.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageStencil.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageStencilToImage.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImageToImageStencil.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkImplicitFunctionToImageStencil.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkLassoStencilSource.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkPolyDataToImageStencil.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Imaging/Stencil/vtkROIStencilSource.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Stencil/vtkImagingStencilModule.h
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Stencil/vtkImagingStencilHierarchy.stamp.txt
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/build/Imaging/Stencil/vtkImagingStencilHierarchy.stamp.txt.rule

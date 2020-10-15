@@ -1,0 +1,6 @@
+# Target labels
+ vtkDICOMParser
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/DICOMParser/DICOMFile.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/DICOMParser/DICOMParser.cxx
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Utilities/DICOMParser/DICOMAppHelper.cxx

@@ -1,0 +1,13 @@
+# Target labels
+ vtkWrappingTools
+# Source files and their labels
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPython.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonClass.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonConstant.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonEnum.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonMethod.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonMethodDef.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonNamespace.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonOverload.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonTemplate.c
+/home/softkoo/pcl/python-pcl/VTK-7.1.1/Wrapping/Tools/vtkWrapPythonType.c
